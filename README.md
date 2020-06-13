@@ -1,3 +1,5 @@
+A react based Covid-19 Web App to display global and country specific stats with charts and bars. Regularly updated with api.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
